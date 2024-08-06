@@ -11,7 +11,7 @@ export default function About() {
             solutions.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I work extensively with computer vision and sensors. I have built games/entertainment installations, robotics applications,
+            I work extensively with <span style={{ fontWeight: 'bold' }}>computer vision and sensors</span>. I have built games/entertainment installations, robotics applications,
             and digital twin/simulation contents for various industries. In addition to hands-on development, I also have experience
             managing project deliveries.
           </p>

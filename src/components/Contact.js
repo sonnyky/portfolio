@@ -46,7 +46,7 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
                 Yokosuka Honcho. <br />
-                KAnagawa, Japan 238-0041
+                Kanagawa, Japan 238-0041
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
